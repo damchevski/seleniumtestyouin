@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bfe0884-a0b7-4c6a-ba8c-ff55a74d768c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rXlCa6mif5PtlCB74lLegqYnz4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="TestNG.TestLoginScenarios.testInvalidCredentials (1)">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="SeleniumTestYouIn" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="SeleniumTestYouIn" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginScenarios.successLogin (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestYouIn_181100" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestLoginScenarios" />
+      <option name="METHOD_NAME" value="successLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginScenarios.successLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestYouIn" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestLoginScenarios" />
+      <option name="METHOD_NAME" value="successLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginScenarios.testEmptyLoginInfo (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestYouIn_181100" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestLoginScenarios" />
+      <option name="METHOD_NAME" value="testEmptyLoginInfo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginScenarios.testInvalidCredentials (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestYouIn_181100" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestLoginScenarios" />
+      <option name="METHOD_NAME" value="testInvalidCredentials" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginScenarios.testInvalidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestYouIn" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestLoginScenarios" />
+      <option name="METHOD_NAME" value="testInvalidCredentials" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestLoginScenarios.testInvalidCredentials (1)" />
+        <item itemvalue="TestNG.TestLoginScenarios.successLogin (1)" />
+        <item itemvalue="TestNG.TestLoginScenarios.testEmptyLoginInfo (1)" />
+        <item itemvalue="TestNG.TestLoginScenarios.successLogin" />
+        <item itemvalue="TestNG.TestLoginScenarios.testInvalidCredentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bfe0884-a0b7-4c6a-ba8c-ff55a74d768c" name="Default Changelist" comment="" />
+      <created>1619130188872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619130188872</updated>
+      <workItem from="1619130191602" duration="1766000" />
+      <workItem from="1619132203045" duration="26000" />
+      <workItem from="1619132332967" duration="1819000" />
+      <workItem from="1619134409516" duration="181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1619131968829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1619131968829" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1619134591169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="394" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1619134166587" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619134591169" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1619134591169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="394" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1619134166587" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619134591169" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1619134591169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="394" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1619134166587" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619134591169" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1619134591169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="394" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1619134166587" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619134591169" />
+    <state width="1493" height="394" key="GridCell.Tab.1.bottom" timestamp="1619134166587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="394" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1619134166587" />
+    <state width="1493" height="394" key="GridCell.Tab.1.center" timestamp="1619134166587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="394" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1619134166587" />
+    <state width="1493" height="394" key="GridCell.Tab.1.left" timestamp="1619134166587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="394" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1619134166587" />
+    <state width="1493" height="394" key="GridCell.Tab.1.right" timestamp="1619134166587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="394" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1619134166587" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1619130344365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1619130344365" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1619134408223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1619134408223" />
+  </component>
+</project>
